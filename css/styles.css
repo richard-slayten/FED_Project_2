@@ -1,0 +1,43 @@
+body {
+  font: 300 15px "Lato", sans-serif;
+  margin: 0;
+  background-color: #fff;
+  color: #747704;
+}
+
+.text-lighten {
+  color: #bcbbbb;
+}
+
+.text-thin {
+  font-weight: 100;
+}
+
+.title-logo {
+  margin: 20px 0px;
+  max-width: 125px;
+  width: 100%;
+}
+
+.title-name {
+  font-size: 60px;
+}
+
+.title-job {
+  font-size: 22px;
+}
+
+.hr-style {
+  background: #bcbbbb;
+  height: 3px;
+  margin-bottom: 30px;
+}
+
+.feature-title {
+  font: 400 35px "Lato", sans-serif;
+}
+
+.main-img,
+.feature-img {
+  width: 100%;
+}
